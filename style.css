@@ -1,0 +1,44 @@
+.cover{
+    height: 50px;
+    width: auto;
+    background-color: blue;
+    text-align: center;
+    color:aliceblue;
+}
+.news{
+    color: red;
+}
+.news1{
+    background-color:#ddd;
+    text-align: justify;
+    border: 3px solid green;
+}
+
+.table{
+    text-align: center;
+    color: red;
+    width: 600px;
+    height: 250px;
+    margin: 5 auto;
+    background-color: #ffcc00
+    
+}
+.overflow{
+    width: 500px;
+    height: 300px;
+    border: 1px solid red;
+    overflow: scroll;
+    background-color: #ddd;
+    margin: 10px;
+    text-align: justify;
+    float: right;
+}
+.overflow1{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin: 10px;
+    overflow: scroll;
+    border: 1px solid blue;
+    background-color: aqua;
+}
